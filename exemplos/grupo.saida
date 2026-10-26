@@ -1,0 +1,24 @@
+== Hanoi com 3 discos ==
+mova o disco de A para C
+mova o disco de A para B
+mova o disco de C para B
+mova o disco de A para C
+mova o disco de B para A
+mova o disco de B para C
+mova o disco de A para C
+7
+1023
+== Collatz ==
+0
+1
+7
+2
+5
+8
+16
+== Raiz quadrada ==
+1.414214
+12.000000
+== Paridade ==
+verdadeiro
+verdadeiro
